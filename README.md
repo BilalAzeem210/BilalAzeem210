@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 3+ years experience in Flutter Development  
+- 🔭 3 years experience in Flutter Development  
 - 📱 Developed production-level mobile applications  
 - 🏗️ Strong understanding of Clean Architecture & MVVM  
 - 🔥 Experienced with Firebase, REST APIs & State Management  
