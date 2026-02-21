@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Azeem</h1>
+<h1 align="center"> I'm Bilal Azeem</h1>
 <h3 align="center">Flutter Developer | Clean Architecture | Firebase | REST APIs | AI Enthusiast</h3>
 
 ---
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,postman,figma,python&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,postman,figma,python&perline=7" />
   </a>
 </p>
 
