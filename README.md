@@ -11,7 +11,7 @@
 - 🔥 Experienced with Firebase, REST APIs & State Management  
 - 🌱 Currently learning Python & AI fundamentals  
 - 💬 Ask me about Flutter, App Architecture & Mobile Development  
-- 📫 Reach me at: **biazeem210@gmail.com**
+- 📫 Reach me at: **bilalazeem.dev@gmail.com**
 
 ---
 
