@@ -36,16 +36,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalAzeem210&show_icons=true&theme=radial&hide_border=true" alt="Bilal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAzeem210&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BilalAzeem210&show_icons=true&theme=tokyonight&hide_border=true" alt="Bilal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BilalAzeem210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📱 Featured Projects
 
-- 🚀 **[Cp Sales Tracker](https://github.com/BilalAzeem210/YOUR-REPO-NAME)** – Sales tracking & location management app built with Flutter.
-- 📰 **[News App](https://github.com/BilalAzeem210/YOUR-REPO-NAME)** – Feature-rich news aggregator app built using Flutter & Provider.
+- 🚀 **[Cp Sales Tracker](https://github.com/BilalAzeem210)** – Sales tracking & location management app built with Flutter.
+- 📰 **[News App](https://github.com/BilalAzeem210)** – Feature-rich news aggregator app built using Flutter & Provider.
 
 ---
 
